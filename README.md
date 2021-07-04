@@ -1,10 +1,10 @@
 <h1>ReversePicture</h1>
 <p>
-That little programm reverse the colors of an image-copy. 
-The programm gets started by clicking the run.bat (ReversePicture/run.bat).
-At least one picture has to be in the input-folder (ReversePicture/input),
-if there is no picture, it will happen nothing obvious.
-If it worked properly, in the output-folder (ReversePicture/output) should be some reversed pictures.
+That little programm reverse the colors of an image-copy. <\br>
+The programm gets started by clicking the run.bat (ReversePicture/run.bat).<\br>
+At least one picture has to be in the input-folder (ReversePicture/input),<\br>
+if there is no picture, it will happen nothing obvious.<\br>
+If it worked properly, in the output-folder (ReversePicture/output) should be some reversed pictures.<\br>
 </p>
 </br>
 <p>
