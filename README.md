@@ -13,4 +13,4 @@ In the src-folder are the java-files, if someone want to use them by themself.
 </br>
 <h3>Have fun with my little programm</h3>
 <h2>DreamTecHunter</h2>
-<p>Ps: If there are some Problem, write me. Of course when u have my contacts.<p>
+<p>Ps: If there are some Problems, write me. Of course when u have my contacts.<p>
