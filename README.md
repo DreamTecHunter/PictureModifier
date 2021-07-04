@@ -6,13 +6,11 @@ The programm gets started by clicking the run.bat (ReversePicture/run.bat).</br>
 At least one picture (<b>jpg</b>) has to be in the input-folder (ReversePicture/wwwroot/input),</br>
 if there is no picture, it will happen nothing obvious.<</br>
 If it worked properly, in the output-folder (ReversePicture/wwwroot/output) should be some reversed pictures.</br>
-There should be no problem with the placeholder, they can be deleted.
 </p>
-</br>
 <p>
-In the src-folder are the java-files, if someone want to use them by themself.
+In the src-folder are the java-files, if someone want to use them by themself.</br>
+There should not be any problem with the placeholder (They can be deleted).
 </p>
-</br>
 <h3>Have fun with my little programm</h3>
 <h2>DreamTecHunter</h2>
 <p>Ps: If there are some Problems, write me. Of course when u have my contacts.<p>
